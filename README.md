@@ -9,7 +9,7 @@ The packages you need for this interview are `dotenv`, `plotly`, `pandas`, `requ
 pip install python-dotenv plotly pandas requests numpy
 ```
 
-Note if you are using a computer with Apple silicon (M1 chip), the installation process will likely fail on `numpy` / `pandas` (as it requires `numpy`). If this happens, please reach out to Abhi (ahu@g.hmc.edu).
+Note if you are using a computer with Apple silicon (M1 chip), the installation process will likely fail on `numpy` / `pandas` (as it requires `numpy`). If this happens, please reach out to Alina (ahu@g.hmc.edu).
 
 You are permitted to use any other packages that do not violate the rules below as well.
 
